@@ -1,9 +1,8 @@
-Hello Git!
+锘縃ello Git!
 
 Hello again!
 
 hello again and
-你好
-说普通话
-写简体字
-utf-8
+浣犲ソ
+璇存櫘閫氳瘽
+鍐欑畝浣撳瓧
